@@ -1,0 +1,6 @@
+- File: co/ostorlab/insecure_app/bugs/calls/commandexec.java | Category: api_local_file_io -> Sources: 0, Sinks: 1
+- File: co/ostorlab/insecure_app/bugs/calls/dexclassloadercall.java | Category: api_dexloading -> Sources: 0, Sinks: 1
+- File: co/ostorlab/insecure_app/bugs/calls/pathclassloadercall.java | Category: api_dexloading -> Sources: 0, Sinks: 1
+- File: co/ostorlab/insecure_app/bugs/calls/pathclassloadercall.java | Category: api_dex_manipulate -> Sources: 0, Sinks: 1
+- File: co/ostorlab/insecure_app/bugs/calls/commandexec.java | Category: api_os_command -> Sources: 0, Sinks: 1
+- File: co/ostorlab/insecure_app/bugs/calls/mobileonlydownloadmanager.java | Category: api_get_system_service -> Sources: 0, Sinks: 1
